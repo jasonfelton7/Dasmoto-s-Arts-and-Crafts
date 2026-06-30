@@ -2,12 +2,12 @@ body {
     font-family: Helvetica;
 }
 
-H1 {
+h1 {
     font-size: 100px;
     font-weight: bold;
     color: khaki;
     text-align: center;
-    background-image: url("../images/pattern.jpeg");
+    background-image: url("/pattern.jpeg");
 }
 
 h2 {
